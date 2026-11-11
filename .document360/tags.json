@@ -1,4 +1,10 @@
 {
   "groups": [],
-  "tags": []
+  "tags": [
+    {
+      "guid": "d816df3f-055a-43e0-b71b-81751cf87458",
+      "uniqueId": "aaa",
+      "name": "aaa"
+    }
+  ]
 }

@@ -1,4 +1,10 @@
 {
   "groups": [],
-  "labels": []
+  "labels": [
+    {
+      "guid": "a74df341-544d-48c2-a7b7-306c9f287e31",
+      "uniqueId": "ccc",
+      "name": "CCC"
+    }
+  ]
 }
