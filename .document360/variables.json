@@ -11,6 +11,12 @@
       "name": "AA",
       "global": true,
       "value": "AA"
+    },
+    {
+      "guid": "650ef8ed-0809-4266-bb15-aec38a34e73c",
+      "name": "B",
+      "global": true,
+      "value": "B"
     }
   ]
 }
